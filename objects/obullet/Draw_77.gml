@@ -1,0 +1,1 @@
+if (place_meeting(x, y, OWall)||place_meeting(x, y, OAcid )|| place_meeting(x, y, ODirt)) instance_destroy();
